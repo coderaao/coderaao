@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm Frontend Developer.</h1>
 <p>I'm 22 y.o. Frontend Developer from Uzbekistan.</p>
+
 [![wakatime](https://wakatime.com/badge/user/eb3834bf-a015-4f1b-adf6-50ed836f800c.svg)](https://wakatime.com/@eb3834bf-a015-4f1b-adf6-50ed836f800c)
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank"
       href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
